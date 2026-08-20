@@ -117,5 +117,7 @@ body{
 }
 .botao-comprar:hover{
     background-color: rgb(67, 137, 67);
+        box-shadow: 0 10px 20px green;
+
     
 }
